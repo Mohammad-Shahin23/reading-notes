@@ -6,6 +6,7 @@
 
 |   Class     |     Link    |
 | ----------- | ----------- |
+| Practice_in_Terminal.md | [Practice_in_Terminal]https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Practice_in_Terminal.md |
 | The-Growth-Mindset.md | [The-Growth-Mindset]https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/The_Growth_Mindset.md |
 | Data_Structure_Algorithms.md | [EData_Structure_Algorithm]https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Data_Structure_Algorithms.md |
 | Engineering_Readings.md | [Engineering-Readings]https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Engineering_Readings.md |
