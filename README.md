@@ -15,6 +15,7 @@
 | Class-03    | [Read-03](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class%2003.md) |
 | Class-04    | [Read-04](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_04.md) |
 | Class-05    | [Read-05](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_05.md) |
+| Class-06    | [Read-06](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_06.md) |
 
 
 
