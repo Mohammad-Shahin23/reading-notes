@@ -1,0 +1,8 @@
+# Class Reading 10 
+
+## Stack
+   A stack is a data structure that follows the LIFO (Last-In-First-Out) principle. It consists of nodes that reference the next node in the stack, but not the previous one. Imagine a stack of books, where you can only add a book to the top and remove the top book. Stacks are commonly used for undo and redo operations, compiler syntax checking, recursive function calls, and other cases where the last action performed is important.
+## Queue
+    On the other hand, a queue is a linear data structure that follows the FIFO (First-In-First-Out) principle. Imagine a queue of people waiting for an ATM, where the first person to arrive is the first one to get served. Queues are often used for asynchronous web service communication, scheduling CPU processes, tracking the N most recently added elements, and any situation where requests need to be serviced in the order they were received.
+## stack and queue  terminology 
+    There are specific terms associated with stacks and queues. For stacks, nodes or items that are put into the stack are pushed, while nodes or items that are removed from the stack are popped. The top of the stack is the highest node, and peeking means viewing the value of the top node. The stack is considered empty when there are no nodes left. For queues, nodes or items that are added to the queue are enqueued, while nodes or items that are removed from the queue are dequeued. The front node is the first node, while the rear node is the last one. Peek means viewing the value of the front node, and the queue is considered empty when there are no nodes left.
