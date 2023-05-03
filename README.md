@@ -19,6 +19,8 @@
 | Class-07    | [Read-07](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_07.md) |
 | Class-08    | [Read-08](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_08.md) |
 | Class-09    | [Read-09](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_09.md) |
+| Class-10    | [Read-10](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_10.md) |
+
 
 
 
