@@ -1,4 +1,4 @@
-# Class Reading 10 
+# Class Reading 11
 
 ## What are the key features and benefits of Jupyter Lab, and how does it differ from Jupyter Notebook?
    This question asks about the key features and benefits of Jupyter Lab, and how it differs from Jupyter Notebook. It also asks about the main functionalities provided by each tool.
