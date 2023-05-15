@@ -23,6 +23,7 @@
 | Class-11    | [Read-11](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_11.md) |
 | Class-12    | [Read-12](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_12.md) |
 | Class-13    | [Read-13](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_13.md) |
+| Class-14    | [Read-14](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_14.md) |
 
 
 
