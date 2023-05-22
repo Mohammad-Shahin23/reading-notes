@@ -1,4 +1,4 @@
-# Class Reading 15
+# Class Reading 16
 
 ## What are the key characteristics of serverless computing, and how does it differ from traditional server-based architectures?
 
