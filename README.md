@@ -28,7 +28,7 @@
 | Class-16    | [Read-16](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_16.md) |
 | Class-17    | [Read-17](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_17.md) |
 | Class-18    | [Read-18](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_18.md) |
-
+| Class-19    | [Read-19](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_19.md) |
 
 
 
