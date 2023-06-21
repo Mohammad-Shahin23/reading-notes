@@ -1,4 +1,4 @@
-# Class Reading 29
+# Class Reading 30
 
 ## What are the key benefits of using a Django Custom User Model, and how does it differ from the default Django User Model?
 
