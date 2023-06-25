@@ -34,6 +34,8 @@
 | Class-28    | [Read-28](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_27.md) |
 | Class-29    | [Read-29](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_29.md) |
 | Class-30    | [Read-30](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_30.md) |
+| Class-31    | [Read-31](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_31.md) |
+
 
 
 
