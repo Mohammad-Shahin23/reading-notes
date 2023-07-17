@@ -37,6 +37,8 @@
 | Class-31    | [Read-31](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_31.md) |
 | Class-32    | [Read-32](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_32.md) |
 | Class-34    | [Read-34](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_34.md) |
+| Class-36    | [Read-36](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_36.md) |
+| Class-37    | [Read-37](https://github.com/Mohammad-Shahin23/reading-notes/blob/main/reading_notes/Read_Class_37.md) |
 
 
 
